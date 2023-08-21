@@ -1,5 +1,5 @@
 # Splitwise-Clone
-Splitwise is a bill spliting application https://secure.splitwise.com, Here I have made a clone by using MERN stack
+Splitwise is a bill splitting application. I have made this splitwise clone using MERN stack.
 
 ## How to use
 
@@ -20,7 +20,7 @@ Use npm start to start the client side sever . (In another Terminal)
    npm start
 ```
 
-And point your browser to `http://localhost:3000`.
+Just open this link in your browser `http://localhost:3000`.
 
 ### Homepage
 ![](images/homepage.png)
