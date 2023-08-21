@@ -24,12 +24,3 @@ Just open this link in your browser `http://localhost:3000`.
 
 ### Homepage
 ![](images/homepage.png)
-
-### Dashboard
-![](images/dashboard.png)
-
-### Add an Expense
-![](images/expense.png)
-
-### settle Up
-![](images/settleup.png)
